@@ -102,15 +102,20 @@ Neste módulo, você se aprofundará na limpeza e transformação de dados com o
 
 Neste módulo, você continuará a processar e transformar dados com o Power BI:
 
-- **Tópico 1**: Descrição do tópico 1.
-- **Tópico 2**: Descrição do tópico 2.
-- **Tópico 3**: Descrição do tópico 3.
-- **Tópico 4**: Descrição do tópico 4.
-- **Tópico 5**: Descrição do tópico 5.
-- **Tópico 6**: Descrição do tópico 6.
-- **Tópico 7**: Descrição do tópico 7.
-- **Tópico 8**: Descrição do tópico 8.
-- **Tópico 9**: Descrição do tópico 9.
-- **Tópico 10**: Descrição do tópico 10.
+- Descrevendo o desafio do projeto
+- Criando uma instância no MySQL na Azure
+- Explorando o Recurso - Instância do MySQL
+- Se conectando ao Banco de Dados com Cloud Shell
+- Criando Regra no Firewall na Azure para Acesso ao banco de Dados
+- Conectando ao MySQL na Azure utilizando Workbench
+- Integrando Power BI com MySQL na Azure
+- Entendendo o desafio
 
-Continue explorando e aprimorando suas habilidades em processamento e transformação de dados com o Power BI neste módulo emocionante.
+**Notas e Observações**
+
+> Durante o curso, tomei notas pessoais e fiz observações sobre as aulas e as etapas do projeto. Apesar de não termos uma base de dados fornecida, segui todas as aulas e apliquei as técnicas e práticas ensinadas da melhor maneira possível.
+
+**Recursos Adicionais**
+
+- Além das aulas, explorei recursos adicionais, como documentação, fóruns e tutoriais, para aprofundar meu conhecimento em Power BI.
+- Também pesquisei fontes de dados públicas que poderiam ser usadas para criar visualizações de exemplo e praticar as técnicas aprendidas.
