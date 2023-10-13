@@ -119,3 +119,26 @@ Neste módulo, você continuará a processar e transformar dados com o Power BI:
 
 - Além das aulas, explorei recursos adicionais, como documentação, fóruns e tutoriais, para aprofundar meu conhecimento em Power BI.
 - Também pesquisei fontes de dados públicas que poderiam ser usadas para criar visualizações de exemplo e praticar as técnicas aprendidas.
+
+## Primeiros Passos com Power BI
+
+Bem-vindo ao módulo "Primeiros Passos com Power BI". Nesta seção, vou compartilhar minha jornada de aprendizado e explorar os conceitos iniciais deste módulo do curso.
+
+- **O que é o Power BI?**: Uma introdução ao Power BI e sua importância na análise de dados.
+- **Por que Power BI?**: Entenda as razões por trás do uso do Power BI em análise de dados e business intelligence.
+- **Explorando Power BI Service (Browser) - Parte 1**: Aprofunde-se na exploração do Power BI Service no navegador.
+- **Explorando Power BI Service (Browser) - Parte 2**: Continuação da exploração do Power BI Service no navegador.
+- **Instalando o Power BI Desktop**: Saiba como instalar a ferramenta Power BI Desktop no seu computador.
+- **Conhecendo o Power BI Desktop**: Explore os recursos e funcionalidades do Power BI Desktop.
+- **Não tenho dataset e agora? - Kaggle**: Estratégias para obter conjuntos de dados quando você não tem um.
+- **Não tenho dataset e agora? - Power BI Samples**: Descubra como usar conjuntos de dados de exemplo do Power BI.
+- **Quais relatórios iremos fazer neste curso?**: Uma visão geral dos relatórios que serão criados durante o curso.
+- **Coletando, modificando os dados do Kaggle e criando o primeiro gráfico**: Aprenda a coletar, modificar e criar seu primeiro gráfico com dados do Kaggle.
+- **Caracterizando o dataset diabetes com gráfico de barras com linhas**: Explore a caracterização do conjunto de dados de diabetes com um gráfico de barras com linhas.
+- **Finalizando relatório preliminar – dataset diabetes Kaggle**: Concluindo o relatório preliminar com o conjunto de dados de diabetes do Kaggle.
+- **Obtendo dados com Simples Transformação dos dados Sample Financials do Power BI**: Saiba como obter dados com uma simples transformação usando o conjunto de dados Sample Financials do Power BI.
+- **Criando a Primeira Página do Relatório Financials – Sample Power BI**: Inicie a criação da primeira página do relatório com o conjunto de dados Sample Financials do Power BI.
+- **Criando a Segunda Página do Relatório Financials – Sample Power BI**: Continuação da criação da segunda página do relatório com o conjunto de dados Sample Financials do Power BI.
+- **Explorando o Relatório Financials e Ajustando Recursos Visuais**: Explore o relatório Financials e saiba como ajustar recursos visuais para melhorar a apresentação dos dados.
+
+## Primeiros Passos com Power BI
