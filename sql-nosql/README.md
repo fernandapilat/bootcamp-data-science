@@ -30,6 +30,17 @@ Nessa pasta, estarei aprofundando meus estudos em bancos de dados relacionais (S
 |SQL|Consultas Avançadas|Funções agregadas e agrupamento de resultados|
 |SQL|Consultas Avançadas|Índices|
 |SQL|Mapa Mental dos Tópicos do Curso e Revisão|Encerramento|
+|NoSQL|Introdução aos Bancos de Dados Não Relacionais|Apresentação Pessoal|
+|NoSQL|Introdução aos Bancos de Dados Não Relacionais|Conceitos básicos dos bancos de dados não relacionais|
+|NoSQL|Introdução aos Bancos de Dados Não Relacionais|Visão geral dos tipos de NoSQL|
+|NoSQL|Introdução do MongoDB|Introdução ao mongoDB|
+|NoSQL|Introdução do MongoDB|Instalação e configuração do mongoDB Atlas|
+|NoSQL|Introdução do MongoDB|Modelagem de dados usando documentos|
+|NoSQL|Introdução do MongoDB|Estratégias de modelagem de dados eficientes e escaláveis|
+|NoSQL|Operações no MongoDB|Operações no MongoDB|
+|NoSQL|Operações no MongoDB|Consultas simples|
+|NoSQL|Breve apresentação do Redis|Introdução ao Redis|
+|NoSQL|Conclusão do Curso|Conclusão do Curso|
 
 ---
 
