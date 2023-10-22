@@ -5,7 +5,8 @@ Nessa pasta, estarei aprofundando meus estudos em bancos de dados relacionais (S
 ## Estrutura da Pasta
 
 - **sql**: Este diretório conterá material de referência, notas e recursos úteis.
-- **sql-comandos/**: Este diretório conterá os scripts abordados durante a aula.
+- **sql-inicial/**: Este diretório conterá scripts de comandos de criação e desenvolvimento de um banco de dados, bem como consultas iniciais.
+**sql-avançado/**: Este diretório conterá scripts de consultas avançadas, envolvendo junções, subconsultas, funções agregadoras e agrupamentos e índices.
 - **nosql/**: Este diretório conterá material de referência, notas e recursos úteis.
 
 
