@@ -1,50 +1,37 @@
-# Bootcamp de Data Science Santander Universidades e DIO
+# Santander Universities & DIO Data Science Bootcamp
 
-Neste repositório, compartilho as minhas experiências e aprendizados durante o Bootcamp de Data Science promovido pelo [Santander Universidades](https://www.becas-santander.com/pt_br/index.html) em parceria com a [DIO](https://github.com/digitalinnovationone). Esta é uma jornada emocionante de descoberta e crescimento na área de Ciência de Dados.
-
-Aqui, você encontrará anotações, projetos, exercícios e outros recursos relacionados aos diversos módulos e tópicos abordados ao longo desse bootcamp empolgante. Vamos explorar juntos o vasto mundo dos dados e suas aplicações!
+This repository documents my technical development during the Data Science Bootcamp hosted by Santander Universities and DIO. It serves as a centralized hub for all projects, analytical reports, and technical exercises developed throughout the program.
 
 ---
 
-## Meus Aprendizados
+## Technical Curriculum
 
-Ao longo do bootcamp, explorei uma ampla gama de tópicos, incluindo:
+The program covered the essential pillars of Data Science, from database management to advanced predictive modeling:
 
-| Módulo | Descrição |
-| ------ | --------- |
-| Introdução à Ciência de Dados e Python| Conceitos básicos e fundamentos |
-| Resolvendo Seus Primeiros Desafios e Códigos | Desafios Python |
-| Primeiros Passos em SQL e NoSQL | Introdução a Banco de dados |
-| Visualização e Análise de Dados com Power BI | Fundamentos, Coleta e Extração, Limpeza, Processamento e Criação de Relatórios |
-| Fundamentos e Técnicas de Machine Learning | Introdução ao Machine Learning, Métodos, Redes Neurais, Algoritmos Genéticos, etc|
-
-
-Estou animado(a) em compartilhar meus projetos e progresso à medida que mergulho mais fundo nesse campo emocionante.
+| Module | Core Subjects |
+| ------ | ------------- |
+| Python for Data Science | Syntax, data structures, and logic challenges. |
+| Database Management | Relational (SQL) and Non-Relational (NoSQL) modeling. |
+| Power BI Analytics | ETL processes, data cleaning, and executive dashboards. |
+| Machine Learning | Supervised learning, Neural Networks, and Genetic Algorithms. |
 
 ---
 
-## Como Navegar Pelo Repositório
+## Technologies and Tools
 
-1. **Clonar o Repositório**: Comece clonando este repositório para o seu computador:
-
-2. **Explorar os Módulos**: Navegue pelos diretórios correspondentes a cada módulo do bootcamp.
-
-3. **Acessar Materiais**: Dentro de cada diretório, você encontrará anotações, códigos, exercícios e outros recursos que utilizei durante o bootcamp.
-
-4. **Compartilhar e Aprender**: Sinta-se à vontade para explorar, compartilhar feedback, tirar dúvidas ou até mesmo colaborar em projetos relacionados à ciência de dados.
-
-5. **Aproveitar a Jornada**: O aprendizado é contínuo. Use este espaço para registrar suas descobertas e avanços pessoais.
+* **Programming:** Python (Pandas, NumPy, Scikit-learn)
+* **Data Querying:** SQL, NoSQL
+* **Data Visualization:** Power BI, Matplotlib, Seaborn
+* **Version Control:** Git and GitHub
 
 ---
 
-## Contato
+## Repository Content
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser trocar ideias sobre ciência de dados e o bootcamp, sinta-se à vontade para me contatar.
+The project files are organized into directories corresponding to each module. Each folder contains the source code, datasets (where applicable), and technical notes regarding the implementation of the solutions.
 
-- Email: pilatfernanda@usp.br
-- LinkedIn: [Fernanda Pilat](https://www.linkedin.com/in/fernandapilat/)
+This documentation is maintained as part of my professional Data Science portfolio. For inquiries or technical discussions regarding the projects, feel free to connect via LinkedIn or open a discussion in the repository.
 
 ---
 
-Mal posso esperar para compartilhar e aprender juntos ao longo desta emocionante jornada de Data Science! 🚀✨
 
